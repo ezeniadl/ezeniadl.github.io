@@ -3,6 +3,8 @@ permalink: /ed_and_ex/
 title: "Education and Experience"
 ---
 
+Here's my [Resume](resume.pdf):
+
 **Education**
 - Harvard College | Bachelor of Science in Electrical Engineering | February 2025
 - IES Abroad | Music History and Performance Program | May-July 2023
