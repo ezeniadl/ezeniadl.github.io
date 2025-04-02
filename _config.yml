@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Daniel Serrano Portfolio
-email:
+title: Ezenia Diaz-Lembert
+email: ezenia.diazlembert@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: ezeniadl
 minimal_mistakes_skin: neon
 search: true
 
@@ -58,16 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Daniel Serrano"
-  avatar : "/assets/images/dragonslug.jpg"
-  bio    : "Graduate student in Biological Sciences interested in cell dynamics."
+  name   : "Ezenia Diaz-Lembert"
+  avatar : "/assets/images/prof_pic.png"
+  bio    : "Global R&D @ Bose"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -77,9 +74,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
