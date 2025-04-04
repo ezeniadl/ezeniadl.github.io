@@ -1,9 +1,9 @@
 main:
   - title: "Education and Experience"
     url: /ed_and_ex/
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
   - title: "Music"
     url: /music/
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
